@@ -1,3 +1,10 @@
+#Reactでnotion作成
+notionのようなメモアプリ作成のためのクライアント側のコードです
+ログイン機能, JWT認証などの機能があります
+gitcloneの際,react-notion-serverと一緒に使用してください
+monogoDBを使用しているのでGoogleアカウントなどでのログインが必要です
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
